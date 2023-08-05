@@ -1,3 +1,3 @@
 # Proforio
 ## สำหรับจัดเก็บไว้เป็น Proforio 
-### ฝึกหัด SQL R Python PowerBI
+### ฝึกหัด SQL R Python 
